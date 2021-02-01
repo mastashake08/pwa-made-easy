@@ -1,0 +1,17 @@
+{
+    "name": "Geolocation PWA",
+    "short_name": "Track your location offline",
+    "description": "PWA for tracking your geolocation offline.",
+    "start_url": "https://geolocation.jcompsolu.com",
+    "scope": "/",
+    "display": "standalone",
+    "orientation": "portrait",
+    "lang": "English",
+    "icons": [
+    {
+      "src": "icon/globe.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
